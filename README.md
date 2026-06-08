@@ -257,6 +257,8 @@ Updated for 2026 with GPT-4.1, Claude 4, Gemini 2.5, o3/o4-mini, and more.
 
 **[Get the Full Toolkit ($19)](https://charliemorrison.lemonsqueezy.com/checkout/custom/f5dfc7d7-2d06-4550-970f-8c715dd05f48?signature=424e547c5d2dab672ebb46c0e9f6de2467c8a2bf2f0d64952cc7108a43b41df0)**
 
+> 💸 **15% off** with code `GH15` at checkout.
+
 ---
 
 ## Other Resources
